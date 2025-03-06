@@ -2,7 +2,7 @@
 **Behavior-Driven Automation & AI Talent Marketplace**
 *Automate tasks your way. Empower developers globally.*
 
-![Next.js](https://img.shields.io/badge/Next.js-14.2-black?logo=next.js&style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-15.1-black?logo=next.js&style=flat)
 ![Convex](https://img.shields.io/badge/Convex-1.9.0-blue?style=flat&logo=convex)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16.2-blue?logo=postgresql&style=flat)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
