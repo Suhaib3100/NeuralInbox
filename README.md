@@ -1,4 +1,4 @@
-# SynapseAI
+# SynapseAI (Work in Progress)
 **Behavior-Driven Automation & AI Talent Marketplace**
 *Automate tasks your way. Empower developers globally.*
 
